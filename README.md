@@ -1,5 +1,5 @@
  - 👋 Hi, I’m @serraMatteo
- - Informatic Engineer Student
+ - Computer Engineer Student
  - Politecnico di Torino
  - Italy 
  - 📫 How to reach me serra.matteo.git@gmail.com
